@@ -11,7 +11,7 @@ The current version contains script to run:
 - Isort
 - Pylint
 
-Copy it into the `.idea/` 
+Copy it into the `.idea/` directory
 
 
 ## References
